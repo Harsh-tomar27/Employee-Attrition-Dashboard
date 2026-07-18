@@ -46,7 +46,3 @@ HR-Analytics-Attrition-Dashboard/
 │── HR_Analytics.pbix
 │── Dashboard.png
 │── README.md
-
-What skills you demonstrated
-
-This is the style commonly used in professional data analytics portfolios on GitHub.
