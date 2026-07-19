@@ -41,8 +41,4 @@ This Power BI dashboard analyzes employee attrition and workforce trends to iden
 - KPI Reporting
 - Business Insights
 
-Repository Structure
-HR-Analytics-Attrition-Dashboard/
-│── HR_Analytics.pbix
-│── Dashboard.png
-│── README.md
+│── Dashboard.png│── README.md
